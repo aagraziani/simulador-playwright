@@ -52,7 +52,7 @@ div.simulador {
   
   p.texto {
     color: darkgrey;
-    line-height: 7px;
+    line-height: 15px;
   }
   
   .is-invalid-monto, .is-invalid-dias {

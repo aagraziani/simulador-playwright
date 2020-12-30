@@ -22,7 +22,7 @@ let controlador = {
     })
     
 
-    await browser.close();
+    await browser.close();  
 
     return res.status(200).send(
         { data: data }
